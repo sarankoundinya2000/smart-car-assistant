@@ -112,10 +112,6 @@ Time: 11:00 AM
 
 ---
 
-## 📬 Contact
-
-Built by [Saran Koundinya Tummalagunta](https://www.linkedin.com/in/sarankoundinya/)
-
 Feel free to reach out for collaboration or feature suggestions!
 
 ---
